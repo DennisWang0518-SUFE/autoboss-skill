@@ -3,3 +3,4 @@ __pycache__/
 scripts/logs/
 scripts/state.json
 .DS_Store
+promo.md

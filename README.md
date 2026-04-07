@@ -1,4 +1,4 @@
-# boss-autosend
+# autoboss-skill
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)
