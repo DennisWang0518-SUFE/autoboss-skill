@@ -4,3 +4,4 @@ scripts/logs/
 scripts/state.json
 .DS_Store
 promo.md
+.obsidian/
